@@ -66,7 +66,7 @@
     "rollup-plugin-dts": "^5.0.0",
     "solid-devtools": "^0.24.7",
     "solid-floating-ui": "^0.2.0",
-    "solid-js": "^1.5.1",
+    "solid-js": "^1.9.4",
     "solid-styled-components": "^0.28.5",
     "solid-transition-group": "^0.0.12",
     "typescript": "^4.8.2",
